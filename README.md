@@ -6,5 +6,5 @@
 
 ## 💫 m e 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kanghyeon-lee-839b61255) 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=a90605190@gmail.com&logoColor=white)](mailto:a90605190@gmail.com)
+[![Gmail](https://img.shields.io/badge/a90605190@gmail.com-EA4335?style=flat-square&logo=Gmail.com&logoColor=white)](mailto:a90605190@gmail.com)
 <br><br><br>
