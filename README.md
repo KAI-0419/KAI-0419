@@ -85,17 +85,6 @@
 
 <br>
 
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:a90605190@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/KAI-0419"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/kai0419"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://kai0419.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</div>
-
-<br>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -112,6 +101,17 @@
 - 🤖 AI/ML 기술을 활용한 혁신적인 웹 서비스 개발
 - 🌍 오픈소스 프로젝트에 기여하기
 - 💼 국제적 협업 경험 확장 및 글로벌 개발자 네트워크 구축
+
+<br>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:a90605190@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/KAI-0419"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kai0419"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kai0419.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</div>
 
 <br>
 
