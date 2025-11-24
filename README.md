@@ -63,8 +63,8 @@
 
 | 프로젝트 | 기술 스택 | 설명 | 기간 |
 |:---:|:---:|:---:|:---:|
-| **MUISIK** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) | AI 기반 YouTube 좋아요 영상 분석 플랫폼. PostgreSQL 동시성 제어, Circuit Breaker 패턴 등 고급 기술 적용 | 2025.5 - 현재 |
-| **Let's Play** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kakao Maps API](https://img.shields.io/badge/Kakao_Maps-FFCD00?style=flat-square&logo=kakao&logoColor=black) ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white) | 스포츠 매칭 및 시설 예약 플랫폼의 카카오맵 API 연동 및 소셜 로그인 구현 | 2022.12 - 2023.2 |
+| **MUISIK** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) | YouTube 좋아요 영상 데이터 + AI 기반 성격 분석 플랫폼 | 2025.5 - 현재 |
+| **Let's Play** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kakao Maps API](https://img.shields.io/badge/Kakao_Maps-FFCD00?style=flat-square&logo=kakao&logoColor=black) ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white) | 스포츠 매칭 및 시설 예약 플랫폼 | 2022.12 - 2023.2 |
 
 </div>
 
